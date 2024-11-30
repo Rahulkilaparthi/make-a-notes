@@ -9,6 +9,7 @@ Categorization: Organize notes by selecting from predefined categories.
 File Attachments: Attach files to your notes for additional context.
 Search Functionality: Easily search for specific notes using the search bar.
 Dark Mode: Includes a toggle for dark mode to reduce strain on your eyes.
+
 ->>Technologies Used:
 Frontend: HTML, CSS, JavaScript
 Backend (optional): Node.js, Express.js (if you have a backend)
