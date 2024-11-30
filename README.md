@@ -27,3 +27,5 @@ Backend : Node.js
 Styling: Custom CSS with modern design elements
 
 Database :  LocalStorage 
+
+website link (https://rahulkilaparthi.github.io/make-a-notes/)
