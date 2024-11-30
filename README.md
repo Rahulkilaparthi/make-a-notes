@@ -1,5 +1,6 @@
 Enhanced My Notes
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________
+
 Enhanced My Notes is a user-friendly web application for creating, organizing, and managing your personal notes. It features a sleek design and functionality to help you stay organized. 
 
 The app supports categories and file attachments to make your notes more versatile.
